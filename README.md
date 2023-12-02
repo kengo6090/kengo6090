@@ -18,3 +18,4 @@
 
 <font color="blue">Про море</font>
 ![image](https://github.com/kengo6090/kengo6090/assets/152714314/87f2423a-03b6-45eb-89af-6aaf067ad328)
+![image](https://github.com/kengo6090/kengo6090/assets/152714314/d37c6d6e-7b9f-4f1b-87a4-b1f12f04dfc0)
