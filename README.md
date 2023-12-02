@@ -11,3 +11,4 @@
 <a href="http://ru.sport-wiki.org/vidy-sporta/kyorling/">Подробнее об игре</a> — ссылка.
 <meta>https://www.youtube.com/watch?v=j-iheFkstFQ
 <meta>https://pikabu.ru/story/strashnyie_nomera_telefonov_2022_8774904
+<meta>https://freerunce.ru/catalog/seo-i-trafik/4479338/razmeshchu-1000-ssylok-tits-ot-10-na-vash-proekt/
