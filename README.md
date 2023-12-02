@@ -12,3 +12,8 @@
 <meta>https://www.youtube.com/watch?v=j-iheFkstFQ
 <meta>https://pikabu.ru/story/strashnyie_nomera_telefonov_2022_8774904
 <meta>https://freerunce.ru/catalog/seo-i-trafik/4479338/razmeshchu-1000-ssylok-tits-ot-10-na-vash-proekt/
+<img src="/uploads/2020/09/curling-769673_640_0_1601463922.jpg" width="600px" height="550px/"> — ширина 600 пикселей, высота 550.
+
+Цвет любого текста можно задать с помощью тега <font>, атрибута color:
+
+<font color="blue">Про море</font>
