@@ -17,4 +17,4 @@
 Цвет любого текста можно задать с помощью тега <font>, атрибута color:
 
 <font color="blue">Про море</font>
-<Ыockquote>![image](https://github.com/kengo6090/kengo6090/assets/152714314/87f2423a-03b6-45eb-89af-6aaf067ad328)
+![image](https://github.com/kengo6090/kengo6090/assets/152714314/87f2423a-03b6-45eb-89af-6aaf067ad328)
